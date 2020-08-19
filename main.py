@@ -94,7 +94,7 @@ def main():
         print(f"Call made. SID = {call.sid}")
     else:
         now = datetime.datetime.now()
-        if now.hour in (14, 22) and now.minute in range(5, 11):
+        if now.hour in (14, 22) and now.minute in range(5, 10):
            do_send_sms = True
 
     if do_send_sms:
