@@ -1,0 +1,4 @@
+app.log
+*.swp
+*.swap
+twilio.json
