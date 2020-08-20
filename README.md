@@ -11,7 +11,6 @@ your authentication credentials and phone numbers.
 
 ## Usage
 
-First, sign up for a R
 I run this as a cron on my Mac every five minutes.
 
 ```
